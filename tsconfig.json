@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "declaration": true,
+    "target": "es5",
+    "module": "esnext",
+    "strict": true,
+    "esModuleInterop": true,
+    "declarationMap": false,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "types": ["vitest/globals"]
+  }
+}
