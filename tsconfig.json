@@ -9,6 +9,8 @@
     "declarationMap": false,
     "skipLibCheck": true,
     "moduleResolution": "node",
-    "types": ["vitest/globals"]
+    "types": [
+      "vitest/globals"
+    ]
   }
 }
