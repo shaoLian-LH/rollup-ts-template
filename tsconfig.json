@@ -9,6 +9,7 @@
     "declarationMap": false,
     "skipLibCheck": true,
     "moduleResolution": "node",
+    "resolveJsonModule": true,
     "types": [
       "vitest/globals"
     ]
