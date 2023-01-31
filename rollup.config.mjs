@@ -41,7 +41,7 @@ export default {
 		terser(),
 		typescript({
 			tsconfigOverride: {
-				exclude: ['__test__/*', '__test__/**', 'vitest.*']
+				exclude: ['__test__/*', '__test__/**', 'vitest.*', 'test/*']
 			},
 			rollupCommonJSResolveHack: false,
 			clean: true
